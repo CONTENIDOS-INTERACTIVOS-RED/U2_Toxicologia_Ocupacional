@@ -22,9 +22,10 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 La unidad 3 profundiza en los procesos mediante los cuales el organismo transforma y elimina sustancias tóxicas, explicando las fases de biotransformación, los órganos involucrados y los mecanismos de excreción. Se analizan los factores que influyen en la velocidad y eficiencia de estos procesos, así como su relevancia en la prevención y tratamiento de intoxicaciones. Este conocimiento resulta clave para comprender la interacción entre agentes químicos y el cuerpo humano, fortaleciendo las estrategias de control y protección de la salud ocupacional. 
+              p.descripcion.mb-4 La unidad 2 profundiza en el estudio de los agentes químicos presentes en el entorno laboral, sus vías de ingreso al organismo y los efectos que producen en la salud de los trabajadores. A través del análisis de la evaluación de riesgos, se busca identificar, medir y controlar la exposición a sustancias peligrosas, considerando factores como la toxicidad, la concentración y el tiempo de exposición. Esta unidad proporciona las herramientas necesarias para prevenir enfermedades laborales, proteger la integridad física y promover ambientes de trabajo seguros, fortaleciendo así la cultura de prevención en el ámbito ocupacional.
+
               
-              p #[b ¡Invitamos a prepararse para aplicar este conocimiento en la identificación y manejo de riesgos tóxicos en el trabajo!]
+              p #[b ¡Prepárese para aplicar estrategias efectivas de control y protección frente a los riesgos químicos en el trabajo!]
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")

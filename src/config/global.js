@@ -1,7 +1,7 @@
 export default {
   global: {
-    numeroUnidad: '3',
-    tituloUnidad: 'Toxicología industrial',
+    numeroUnidad: '2',
+    tituloUnidad: 'Valores límites permisibles',
   },
   menuPrincipal: {
     menu: [
