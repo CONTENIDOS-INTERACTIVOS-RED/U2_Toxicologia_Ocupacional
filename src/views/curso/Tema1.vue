@@ -3,15 +3,15 @@
   BannerInterno(:subTitulo="'1. Toxicología industrial'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
 
-  .row.mb-5
+    .row.mb-5
       .col-lg-4.mb-3.mb-lg-0
-        .bg-color-1.tarjeta.p-3.h-100(data-aos="fade-left")
+        .bg-color-4.tarjeta.p-3.h-100(data-aos="fade-left")
           p(data-aos="fade-left") Los valores límites permisibles (VLP), son parámetros fundamentales en el campo de la higiene industrial y la toxicología ocupacional. Se definen como las concentraciones máximas de una sustancia química, agente biológico o físico a las que un trabajador puede estar expuesto durante un período determinado, generalmente una jornada laboral de 8 horas diarias y 40 horas semanales, sin que se produzcan efectos adversos significativos en su salud. Estos valores sirven como referencia en la elaboración de normativas, estándares y programas de prevención de riesgos químicos en el lugar de trabajo, permitiendo la protección de la salud de los empleados y promoviendo ambientes laborales seguros y saludables.
       .col-lg-4.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/intro/1.png" data-aos="zoom-in")
       .col-lg-4.mb-3.mb-lg-0
-        .bg-color-2.tarjeta.p-3.h-100(data-aos="fade-left").mb-4
+        .bg-color-1.tarjeta.p-3.h-100(data-aos="fade-left").mb-4
           p(data-aos="fade-left") Además, los VLP son utilizados como herramientas de monitoreo y control en los procesos industriales, facilitando la identificación de niveles de exposición que requieren medidas correctivas o preventivas. La aplicación de estos límites también fomenta una cultura de seguridad, sensibilizando a empleadores y trabajadores sobre la importancia de manejar adecuadamente las sustancias peligrosas y de adoptar prácticas seguras en sus actividades diarias.
 
           figure.justify-content-end.d-flex
