@@ -2,7 +2,7 @@
   .curso-main-container.creditos-vista
     BannerInterno(subTitulo="SÍNTESIS")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-      p(data-aos="fade-up").mb-5 La unidad 3: Toxicología industrial, aborda los procesos mediante los cuales los contaminantes ingresan, se distribuyen, metabolizan y eliminan del organismo, así como los mecanismos de acción que producen efectos tóxicos en los tejidos y órganos. Esta unidad integra conceptos esenciales para comprender la relación entre la dosis y la respuesta biológica, analizando factores que influyen en la absorción, distribución, biotransformación y excreción de sustancias. Este enfoque permite a los estudiantes desarrollar una visión integral sobre cómo las propiedades químicas y biológicas de los agentes peligrosos determinan su impacto en la salud, favoreciendo la aplicación de medidas preventivas y de control en el ámbito laboral.
+      p(data-aos="fade-up").mb-5 La unidad 2: Valores límites permisibles, aborda los principales tipos de agentes químicos presentes en los entornos laborales, sus características y los efectos que pueden generar sobre la salud. Esta unidad ofrece una visión detallada de las diferentes formas en que estos contaminantes ingresan al organismo, así como de los mecanismos de absorción y los factores que influyen en su toxicidad. Este enfoque integral permite a los estudiantes comprender los riesgos asociados a la exposición química en el trabajo y aplicar medidas preventivas efectivas para proteger la salud ocupacional.
 
       .row.justify-content-center
         .col-lg-12.mb-5

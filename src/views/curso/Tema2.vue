@@ -135,20 +135,14 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/102927 " target="_blank" rel="noopener noreferrer") Mastandrea, C. (2005). Hidrocarburos aromáticos policíclicos. Riesgos para la salud y marcadores biológicos: ( ed.). Scielo Argentina. 
+              a(href="https://pubchem.ncbi.nlm.nih.gov" target="_blank" rel="noopener noreferrer")  National Library of Medicine. (n.d.). PubChem compound database. U.S. National Institutes of Health.
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/40705" target="_blank" rel="noopener noreferrer") Martínez, R. R. Jaramillo Juárez, F. (Coord.) & Rincón Sánchez, A. R. (Coord.). (2009). Toxicología ambiental: ( ed.). Universidad Autónoma de Aguascalientes.  
-            
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://es.aetox.es/  " target="_blank" rel="noopener noreferrer") Asociación Española de Toxicología  
-
+              a(href="https://echa.europa.eu/information-on-chemicals" target="_blank" rel="noopener noreferrer") European Chemicals Agency. (n.d.). Information on chemicals.
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.youtube.com/watch?v=ASSxU-GKqn4" target="_blank" rel="noopener noreferrer") Canal UGT - UGT de Catalunya. (2018, 22 de octubre). Exposición a contaminantes químicos [Vídeo]. YouTube.  
-
+              a(href="https://www.youtube.com/watch?v=50wZfwmr2Gc" target="_blank" rel="noopener noreferrer") IMQ Prevención. (2021, 21 de junio). Webinar. Evaluación de exposición a los agentes químicos. Norma UNE-EN 689:2019 [Vídeo]. YouTube. 
 
 
           .col-12.col-md-6.col-lg-3.offset-lg-1

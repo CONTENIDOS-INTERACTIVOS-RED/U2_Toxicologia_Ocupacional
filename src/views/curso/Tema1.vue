@@ -33,11 +33,6 @@
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://www.elsevier.com/es-es" target="_blank" rel="noopener noreferrer") Guyton, A. C., & Hall, J. E. (2021). Textbook of Medical Physiology (14th ed.). Elsevier.  
 
-
-
-
-
-
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
               a(href="https://www.youtube.com/watch?v=UoDykAYX7kU" target="_blank" rel="noopener noreferrer") IMQ Prevención. (2021, 21 de junio). Webinar. Valoración de exposición a sílice cristalina respirable y sus consecuencias en la salud [Vídeo]. YouTube. 
